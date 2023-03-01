@@ -222,3 +222,17 @@ body{
 .options-button:hover {
 	background-position: 0 -64px !important;
 }
+
+#startBtn {
+	background-color: #6568aa;
+	padding: 5px 10px;
+	border: 1px solid white;
+	box-shadow: 2px 2px white;
+	border-radius: 10px;
+	color: white;
+	font-size: 25px;
+	font-weight: 400;
+	margin-top: 20px;
+	cursor: pointer;
+
+}
